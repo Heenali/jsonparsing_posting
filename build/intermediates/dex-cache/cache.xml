@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Desktop\14\jsonparsing_roundimage_imagelode_example\app\libs\library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="250dc6923a299fa47f46c7ea8d1f306e41be461f">
+        <dex dex="C:\Users\Heenali\Desktop\14\jsonparsing_roundimage_imagelode_example\app\build\intermediates\pre-dexed\debug\library_941d54e4ff8dd76c2a8ca5c7ffb0787e57b63b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Desktop\14\jsonparsing_roundimage_imagelode_example\app\libs\urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="C:\Users\Heenali\Desktop\14\jsonparsing_roundimage_imagelode_example\app\build\intermediates\pre-dexed\debug\urlimageviewhelper-1.0.4_712978eb36229a10145838cd510ce82b646df3bd.jar" />
+    </item>
+
+</items>
